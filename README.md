@@ -7,5 +7,5 @@ Titus Winters, Software Engineering at Google </p>
 
 <h3> Comentário </h3>
 
-<p> Eu entendi que a engenharia de Software você sempre tem estar acompanhado a programação, se não ela irá ficar para trás, por conta que a programação sempre cria primeiro.</p>
+<p> Eu entendi que a engenharia de Software você sempre está preocupado com o desenvolvimento do programa e também a eficiência, se não o programa irá ficar para trás, por conta que a programação sempre cria primeiro e a engenharia está lá para desenvolver na minha concepção.</p>
 
