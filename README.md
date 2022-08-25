@@ -5,7 +5,25 @@
 
 Titus Winters, Software Engineering at Google </p>
 
-<h3> Comentário </h3>
+<h2> Comentário </h2>
 
 <p> Eu entendi que a engenharia de Software você sempre está preocupado com o desenvolvimento do programa e também a eficiência, se não o programa irá ficar para trás, por conta que a programação sempre cria primeiro e a engenharia está lá para desenvolver na minha concepção.</p>
 
+<br>
+
+<h2> Atividade de Requisitos: Estabelecimento de Marketplace </h2>
+
+<h3> Requisitos funcionais: </h3>
+
+<p> • Realizar pesquisa de produtos; </p>
+<p> • Realizar uma compra efetiva; </p>
+<p> • Um ótimo atendimento; </p>
+<p> • Um lugar agrádave; </p>
+<p> • Realizar compras diárias ou mensais; </p>
+<p> • Solicitar algum desconto e diversos meios de pagamentos; </p>
+<p> • Realizar compras diárias ou mensais; </p>
+<p> • Realizar compras de fácil acesso; </p>
+
+<h3> Requisitos não-funcionais: </h3>
+
+<p> • Realizar compras de fácil acesso; </p>
