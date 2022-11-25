@@ -15,10 +15,10 @@ Titus Winters, Software Engineering at Google </p>
 
 <h3> Requisitos funcionais: <h3>
 
-<p> • O projeto da Plataforma de Ensino possui como Requisitos Funcionais:<br/>
-    Ingressar/Criar Reuniões;<br/>
-    Enviar/Receber Mensagens;<br/>
-    Criar/Entregar Atividades.;<br/> </p>
+<p> • O projeto da Plataforma de Ensino possui como Requisitos Funcionais:<br/> </p>
+<p> Ingressar/Criar Reuniões;<br/> </p>
+<p> Enviar/Receber Mensagens;<br/> </p>
+<p> Criar/Entregar Atividades.;<br/> </p>
     
 <h3> 1 - Casos de Uso <h3>
 
@@ -28,11 +28,11 @@ Titus Winters, Software Engineering at Google </p>
 
 <h3> No primeiro caso com o Aluno, o ator pode fazer 3 ações principais, sendo elas: <h3>
 
-Ingressar em uma Reunião; <br/>
-Postar Solução de Atividades/Tarefas; <br/>
-Enviar mensagem no Chat Correspondência entre o sistema e o mundo real; <br/>
-Já no segundo caso com o Professor, o ator pode fazer 3 ações principais, como:; <br/>
-Criar uma Atividade/Tarefa; <br/>
-Enviar mensagem no Chat; <br/>
-Criar uma Reunião; <br/>
+<p> Ingressar em uma Reunião; <br/> </p>
+<p> Postar Solução de Atividades/Tarefas; <br/> </p>
+<p> Enviar mensagem no Chat Correspondência entre o sistema e o mundo real; <br/> </p>
+<p> Já no segundo caso com o Professor, o ator pode fazer 3 ações principais, como:; <br/> </p>
+<p> Criar uma Atividade/Tarefa; <br/> </p>
+<p> Enviar mensagem no Chat; <br/> </p>
+<p> Criar uma Reunião; <br/> </p>
 
