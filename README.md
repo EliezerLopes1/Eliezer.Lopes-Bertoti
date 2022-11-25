@@ -15,15 +15,8 @@ Titus Winters, Software Engineering at Google </p>
 
 <h3> Requisitos funcionais: </h3>
 
-<p> • Realizar pesquisa de produtos; </p>
-<p> • Realizar uma compra efetiva; </p>
-<p> • Um ótimo atendimento; </p>
-<p> • Um lugar agrádave; </p>
-<p> • Realizar compras diárias ou mensais; </p>
-<p> • Solicitar algum desconto e diversos meios de pagamentos; </p>
-<p> • Realizar compras diárias ou mensais; </p>
-<p> • Realizar compras de fácil acesso; </p>
+<p> • O projeto da Plataforma de Ensino possui como Requisitos Funcionais:
+Ingressar/Criar Reuniões;
+Enviar/Receber Mensagens;
+Criar/Entregar Atividades.; </p>
 
-<h3> Requisitos não-funcionais: </h3>
-
-<p> • Realizar compras de fácil acesso; </p>
