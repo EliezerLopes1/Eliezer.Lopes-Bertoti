@@ -91,36 +91,20 @@ Titus Winters, Software Engineering at Google </p>
 
 <h4> Projeto </h4>
 
-<br>
-
 <h3> Diagrama de Classes - Exemplo Plataforma de Ensino </h3>
-
-<br>
 
 ![image](https://user-images.githubusercontent.com/102488914/203880523-ccb0be69-0c96-458d-b925-49910b3cc2c6.png)
 
 <h3> Desenvolvimento </h3>
 
-<br>
-
 <h3> Classe PlataformaEnsino </h3>
-
-<br>
 
 ![image](https://user-images.githubusercontent.com/102488914/203880629-b436e3fb-6959-420b-a602-895fb671e244.png)
 
-<br>
-
 <h3> Classe Pessoa </h3>
-
-<br>
 
 ![image](https://user-images.githubusercontent.com/102488914/203880695-47324912-70d8-4d89-ae8d-15b6506300aa.png)
 
-<br>
-
 <h3> Classe Disciplina </h3>
-
-<br>
 
 ![image](https://user-images.githubusercontent.com/102488914/203880779-65ea35ca-5e14-411f-b84b-66bac0fdddb1.png)
