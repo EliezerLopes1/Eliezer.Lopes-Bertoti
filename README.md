@@ -95,7 +95,7 @@ Titus Winters, Software Engineering at Google </p>
 
 <h3> Desenvolvimento </h3>
 
-<h3> Classe PlataformaEnsino </h3>
+<h3> Classe Plataforma Ensino </h3>
 
 ![image](https://user-images.githubusercontent.com/102488914/203880629-b436e3fb-6959-420b-a602-895fb671e244.png)
 
