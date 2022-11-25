@@ -31,7 +31,7 @@ Titus Winters, Software Engineering at Google </p>
 <p> Ingressar em uma Reunião; <br/> </p>
 <p> Postar Solução de Atividades/Tarefas; <br/> </p>
 <p> Enviar mensagem no Chat Correspondência entre o sistema e o mundo real; <br/> </p>
-<p> Já no segundo caso com o Professor, o ator pode fazer 3 ações principais, como:; <br/> </p>
+<p> Já no segundo caso com o Professor, o ator pode fazer 3 ações principais, como:; </p> <br/>
 <p> Criar uma Atividade/Tarefa; <br/> </p>
 <p> Enviar mensagem no Chat; <br/> </p>
 <p> Criar uma Reunião; <br/> </p>
