@@ -15,8 +15,8 @@ Titus Winters, Software Engineering at Google </p>
 
 <h3> Requisitos funcionais: </h3>
 
-<p> • O projeto da Plataforma de Ensino possui como Requisitos Funcionais:
-Ingressar/Criar Reuniões;
-Enviar/Receber Mensagens;
-Criar/Entregar Atividades.; </p>
+<p> • O projeto da Plataforma de Ensino possui como Requisitos Funcionais:<br/>
+    Ingressar/Criar Reuniões;
+    Enviar/Receber Mensagens;
+    Criar/Entregar Atividades.; </p>
 
