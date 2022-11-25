@@ -48,8 +48,6 @@ Titus Winters, Software Engineering at Google </p>
 
 <h3> Não-Funcionais </h3>
 
-<br>
-
 <p> O projeto da Plataforma de Ensino possui como Requisitos Não-Funcionais: <br/> </p>
 <p> Anexar e deletar arquivo; <br/> </p>
 <p> Comunicar com áudio, mensagem e vídeo; <br/> </p>
