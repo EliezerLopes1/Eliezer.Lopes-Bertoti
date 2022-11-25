@@ -23,4 +23,16 @@ Titus Winters, Software Engineering at Google </p>
 <h3> 1 - Casos de Uso <h3>
 
 ![image](https://user-images.githubusercontent.com/102488914/203879148-48bfc6fd-95af-44d1-b7cf-fa1f4e441b8e.png)
+    
+<h3> O Diagrama de Casos de Uso é composto por dois atores, Aluno e Professor, e suas possíveis ações na Plataforma de Ensino <h3>
+
+<h3> No primeiro caso com o Aluno, o ator pode fazer 3 ações principais, sendo elas: <h3>
+
+Ingressar em uma Reunião; <br/>
+Postar Solução de Atividades/Tarefas; <br/>
+Enviar mensagem no Chat Correspondência entre o sistema e o mundo real; <br/>
+Já no segundo caso com o Professor, o ator pode fazer 3 ações principais, como:; <br/>
+Criar uma Atividade/Tarefa; <br/>
+Enviar mensagem no Chat; <br/>
+Criar uma Reunião; <br/>
 
