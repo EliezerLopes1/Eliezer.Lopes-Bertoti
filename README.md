@@ -11,12 +11,14 @@ Titus Winters, Software Engineering at Google </p>
 
 <br>
 
-<h2> Atividade de Requisitos: Estabelecimento de Marketplace </h2>
+<h2> Atividade de Requisitos: Plataforma de ensino </h2>
 
-<h3> Requisitos funcionais: </h3>
+<h3> Requisitos funcionais: <h3>
 
 <p> • O projeto da Plataforma de Ensino possui como Requisitos Funcionais:<br/>
     Ingressar/Criar Reuniões;<br/>
     Enviar/Receber Mensagens;<br/>
     Criar/Entregar Atividades.;<br/> </p>
+    
+    <h3> 1 - Casos de Uso< h3>
 
