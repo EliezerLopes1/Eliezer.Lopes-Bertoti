@@ -89,7 +89,7 @@ Titus Winters, Software Engineering at Google </p>
 <p> Heurística 8: Design estético e minimalista <br/> </p>
 <p> Heurística 10: Ajuda e documentação <br/> </p>
 
-<h4> Projeto </h4>
+<h3> Projeto </h3>
 
 <h3> Diagrama de Classes - Exemplo Plataforma de Ensino </h3>
 
