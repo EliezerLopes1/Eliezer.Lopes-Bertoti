@@ -13,20 +13,20 @@ Titus Winters, Software Engineering at Google </p>
 
 <h2> Atividade de Requisitos: Plataforma de ensino </h2>
 
-<h3> Requisitos funcionais: <h3>
+<h3> Requisitos funcionais: </h3>
 
 <p> • O projeto da Plataforma de Ensino possui como Requisitos Funcionais:<br/> </p>
 <p> Ingressar/Criar Reuniões;<br/> </p>
 <p> Enviar/Receber Mensagens;<br/> </p>
 <p> Criar/Entregar Atividades.;<br/> </p>
     
-<h3> 1 - Casos de Uso <h3>
+<h3> 1 - Casos de Uso </h3>
 
 ![image](https://user-images.githubusercontent.com/102488914/203879148-48bfc6fd-95af-44d1-b7cf-fa1f4e441b8e.png)
     
-<h3> O Diagrama de Casos de Uso é composto por dois atores, Aluno e Professor, e suas possíveis ações na Plataforma de Ensino <h3>
+<h3> O Diagrama de Casos de Uso é composto por dois atores, Aluno e Professor, e suas possíveis ações na Plataforma de Ensino </h3>
 
-<h3> No primeiro caso com o Aluno, o ator pode fazer 3 ações principais, sendo elas: <h3>
+<h3> No primeiro caso com o Aluno, o ator pode fazer 3 ações principais, sendo elas: </h3>
 
 <p> Ingressar em uma Reunião; <br/> </p>
 <p> Postar Solução de Atividades/Tarefas; <br/> </p>
@@ -36,7 +36,7 @@ Titus Winters, Software Engineering at Google </p>
 <p> Enviar mensagem no Chat; <br/> </p>
 <p> Criar uma Reunião; <br/> </p>
     
-<h3> Já no segundo caso com o Professor, o ator pode fazer 3 ações principais, como: <h3>
+<h3> Já no segundo caso com o Professor, o ator pode fazer 3 ações principais, como: </h3>
 
 <p> Criar uma Atividade/Tarefa <br/> </p>
 <p> Enviar mensagem no Chat <br/> </p>
