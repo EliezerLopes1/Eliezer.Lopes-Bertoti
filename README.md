@@ -43,3 +43,84 @@ Titus Winters, Software Engineering at Google </p>
 <p> Criar uma Reunião <br/> </p>
 
 <h3> 2 - User Stories (Cards) </h3>
+
+![image](https://user-images.githubusercontent.com/102488914/203879825-6e565c36-b6a3-46a1-b9f5-3c8639220bc3.png)
+
+<h3> Não-Funcionais </h3>
+
+<br>
+
+<p> O projeto da Plataforma de Ensino possui como Requisitos Não-Funcionais: <br/> </p>
+<p> Anexar e deletar arquivo; <br/> </p>
+<p> Comunicar com áudio, mensagem e vídeo; <br/> </p>
+<p> Compartilhar a tela e seu áudio; <br/> </p>
+<p> Ter informações sobre as atividades. <br/> </p>
+
+<h3> TELA 1 - TAREFAS </h3>
+
+<h3> Na tela de Tarefas, é possível identificar as seguintes heurísticas: </h3>
+
+<p> Heurística 2: Correspondência entre o sistema e o mundo real; <br/> </p>
+<p> Heurística 3: Controle e liberdade do usuário; <br/> </p>
+<p> Heurística 4: Consistência e padrões; <br/> </p>
+<p> Heurística 6: Reconhecimento em vez de lembrança; <br/> </p>
+<p> Heurística 8: Design estético e minimalista; <br/> </p>
+<p> Heurística 10: Ajuda e documentação; <br/> </p>
+
+<h3> TELA 2 - DISCIPLINAS </h3>
+
+<h3> Na tela de Disciplinas, é possível identificar as seguintes heurísticas: </h3>
+
+<p> Heurística 2: Correspondência entre o sistema e o mundo real <br/> </p>
+<p> Heurística 3: Controle e liberdade do usuário <br/> </p>
+<p> Heurística 4: Consistência e padrões <br/> </p>
+<p> Heurística 6: Reconhecimento em vez de lembrança <br/> </p>
+<p> Heurística 8: Design estético e minimalista <br/> </p>
+<p> Heurística 10: Ajuda e documentação <br/> </p>
+
+<h3> TELA 3 - MENU </h3>
+
+<h3> Na tela de Menu, é possível identificar as seguintes heurísticas: </h3>
+
+<p> Heurística 2: Correspondência entre o sistema e o mundo real <br/> </p>
+<p> Heurística 3: Controle e liberdade do usuário <br/> </p>
+<p> Heurística 4: Consistência e padrões <br/> </p>
+<p> Heurística 6: Reconhecimento em vez de lembrança <br/> </p>
+<p> Heurística 8: Design estético e minimalista <br/> </p>
+<p> Heurística 10: Ajuda e documentação <br/> </p>
+
+<h4> Projeto </h4>
+
+<br>
+
+<h3> Diagrama de Classes - Exemplo Plataforma de Ensino </h3>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/102488914/203880523-ccb0be69-0c96-458d-b925-49910b3cc2c6.png)
+
+<h3> Desenvolvimento </h3>
+
+<br>
+
+<h3> Classe PlataformaEnsino </h3>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/102488914/203880629-b436e3fb-6959-420b-a602-895fb671e244.png)
+
+<br>
+
+<h3> Classe Pessoa </h3>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/102488914/203880695-47324912-70d8-4d89-ae8d-15b6506300aa.png)
+
+<br>
+
+<h3> Classe Disciplina </h3>
+
+<br>
+
+![image](https://user-images.githubusercontent.com/102488914/203880779-65ea35ca-5e14-411f-b84b-66bac0fdddb1.png)
