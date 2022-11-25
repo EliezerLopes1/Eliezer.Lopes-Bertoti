@@ -20,5 +20,5 @@ Titus Winters, Software Engineering at Google </p>
     Enviar/Receber Mensagens;<br/>
     Criar/Entregar Atividades.;<br/> </p>
     
-    <h3> 1 - Casos de Uso< h3>
+<h3> 1 - Casos de Uso <h3>
 
